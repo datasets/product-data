@@ -11,6 +11,8 @@ Collecting open product data into a frictionless way.
 
 ![image](https://github.com/datasets/product-data/assets/180658/9f102009-f0cf-46c3-bd8f-0c0ffb379a25)
 
+![image](https://github.com/datasets/product-data/assets/180658/5607d381-388f-4427-a20e-1c8510c5aab7)
+
 ### Proprietary stuff
 
 - [Syndicateplus](http://syndicateplus.com/) Free, API, Commercial
